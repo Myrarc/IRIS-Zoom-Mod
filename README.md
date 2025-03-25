@@ -6,6 +6,6 @@ Miss the zoom on optifine ? here it is.
 This mod requires [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) to run
 
 # Installation
-Supported release 1.21+
+Supported release 1.21+\
 Get it [here](https://github.com/Myrarc/IRIS-Zoom-Mod/releases/tag/stable)\
 Drag and drop the jar file into your minecraft mods folder (.minecraft/mods)
