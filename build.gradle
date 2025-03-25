@@ -20,14 +20,19 @@ repositories {
 
 loom {
 	splitEnvironmentSourceSets()
+}
 
-	mods {
-		"iriszoommod" {
-			sourceSet sourceSets.main
-			sourceSet sourceSets.client
+sourceSets {
+	main {
+		java {
+			srcDirs = ['src/main/java']
 		}
 	}
-
+	client {
+		java {
+			srcDirs = ['src/client/java']
+		}
+	}
 }
 
 dependencies {

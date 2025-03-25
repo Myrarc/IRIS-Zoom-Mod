@@ -15,11 +15,8 @@
 	"icon": "assets/iriszoommod/icon.png",
 	"environment": "*",
 	"entrypoints": {
-		"main": [
-			"com.myra.iriszoommod.Iriszoommod"
-		],
 		"client": [
-			"com.myra.iriszoommod.IriszoommodClient"
+			"com.myra.iriszoommod.ZoomMod"
 		]
 	},
 	"mixins": [
