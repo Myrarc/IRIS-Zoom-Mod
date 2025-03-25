@@ -2,7 +2,7 @@
 Miss the zoom on optifine ? here it is.
 
 # Requirements
-[<img src="https://i.imgur.com/OBp7tUT.png" alt="Description" width="213"/>](https://i.imgur.com/OBp7tUT.png)\
+[<img src="https://i.imgur.com/OBp7tUT.png" alt="Description" width="213"/>](https://www.curseforge.com/minecraft/mc-mods/fabric-api)\
 This mod requires [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) to run
 
 # Installation
